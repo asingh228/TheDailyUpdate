@@ -1,11 +1,13 @@
 import os
 import re
 import feedparser
-from cerebras.cloud.sdk import Cerebras
+from openai import OpenAI
 from datetime import datetime
 
 # --- CONFIGURATION ---
 ARXIV_URL = 'http://export.arxiv.org/api/query?search_query=cat:cs.LG&start=0&max_results=1&sortBy=submittedDate&sortOrder=descending'
+# Cerebras uses an OpenAI-compatible endpoint
+CEREBRAS_BASE_URL = "https://api.cerebras.ai/v1"
 MODEL_ID = "llama3.1-8b"
 
 def get_latest_paper():
@@ -23,22 +25,25 @@ def get_latest_paper():
     }
 
 def generate_summary(paper_title, paper_abstract):
-    # 1. Initialize Cerebras Client
-    # It automatically looks for CEREBRAS_API_KEY in env vars
-    if not os.environ.get("CEREBRAS_API_KEY"):
-         raise ValueError("CEREBRAS_API_KEY not found in environment variables.")
+    api_key = os.environ.get("CEREBRAS_API_KEY")
+    if not api_key:
+        print("CRITICAL ERROR: CEREBRAS_API_KEY is missing from environment variables.")
+        return "Error: API Key Missing"
 
-    client = Cerebras(api_key=os.environ.get("CEREBRAS_API_KEY"))
+    # We use the standard OpenAI client, but point it to Cerebras
+    client = OpenAI(
+        base_url=CEREBRAS_BASE_URL,
+        api_key=api_key
+    )
 
     prompt = (
-        f"Summarize this AI paper into one punchy, technical sentence (max 40 words) for a GitHub profile. "
+        f"Summarize this AI paper into one punchy, technical sentence (max 40 words). "
         f"Focus on the architecture or novelty.\n\n"
         f"Title: {paper_title}\n"
         f"Abstract: {paper_abstract}"
     )
 
     try:
-        # 2. Call Llama 3.1-8b
         response = client.chat.completions.create(
             model=MODEL_ID,
             messages=[
@@ -50,20 +55,33 @@ def generate_summary(paper_title, paper_abstract):
         )
         return response.choices[0].message.content.strip()
     except Exception as e:
-        print(f"Error calling Cerebras: {e}")
-        return "Summary unavailable (API Error)."
+        # PRINT THE ACTUAL ERROR so we can debug
+        print(f"API CALL FAILED: {e}")
+        return f"Summary unavailable (Error: {str(e)[:50]}...)"
 
 def update_readme(paper_info, ai_summary):
-    filename = "README.md"
+    # Auto-detect filename
+    if os.path.exists("README.md"):
+        filename = "README.md"
+    elif os.path.exists("readme.md"):
+        filename = "readme.md"
+    else:
+        print("Error: README.md not found.")
+        return
+
     with open(filename, "r", encoding="utf-8") as file:
         content = file.read()
 
     start_marker = ""
     end_marker = ""
     
+    # Validation: Ensure markers exist before trying to replace
+    if start_marker not in content or end_marker not in content:
+        print("ERROR: Markers not found in README.md. Please reset them.")
+        return
+
     date_str = datetime.now().strftime("%Y-%m-%d")
     
-    # Simple Markdown structure
     new_entry = (
         f"{start_marker}\n"
         f"### ⚡ Daily ArXiv Pick ({date_str})\n"
@@ -72,22 +90,20 @@ def update_readme(paper_info, ai_summary):
         f"{end_marker}"
     )
 
+    # Regex: Replace everything between markers
+    # re.DOTALL allows matching across newlines
     pattern = f"{re.escape(start_marker)}.*?{re.escape(end_marker)}"
-    
-    if start_marker not in content:
-        print("Error: Markers not found in README.md.")
-        return
-
     updated_content = re.sub(pattern, new_entry, content, flags=re.DOTALL)
 
-    if updated_content != content:
-        with open(filename, "w", encoding="utf-8") as file:
-            file.write(updated_content)
-        print("README.md updated successfully.")
-    else:
-        print("No changes needed.")
+    with open(filename, "w", encoding="utf-8") as file:
+        file.write(updated_content)
+    print("README.md updated successfully.")
 
 if __name__ == "__main__":
-    paper = get_latest_paper()
-    summary = generate_summary(paper['title'], paper['abstract'])
-    update_readme(paper, summary)
+    try:
+        paper = get_latest_paper()
+        summary = generate_summary(paper['title'], paper['abstract'])
+        update_readme(paper, summary)
+    except Exception as e:
+        print(f"Script crashed: {e}")
+        exit(1)
