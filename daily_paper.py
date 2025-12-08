@@ -50,7 +50,7 @@ def generate_simple_summary(paper_title, paper_abstract):
                 {"role": "system", "content": "You are a clear, helpful AI science communicator."},
                 {"role": "user", "content": prompt}
             ],
-            max_tokens=150, # Increased for verbose summary
+            max_tokens=1500, # Increased for verbose summary
             temperature=0.7
         )
         content = response.choices[0].message.content.strip()
