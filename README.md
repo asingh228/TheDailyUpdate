@@ -1,5 +1,13 @@
 
 
+### ⚡ 2025-12-11: Closing the Train-Test Gap in World Models for Gradient-Based Planning
+> **Simple Summary:** Imagine you have a robot that needs to navigate through a complex environment, like a warehouse. To do this, it needs to predict what will happen next and decide the best path to take. A "world model" is like a simulator that helps the robot make these predictions. 
+
+This research paper focuses on improving these world models so they can help the robot make better decisions. They're working on closing a gap between how the world model is trained and how it's actually used in real-world situations. The result is a more efficient way for robots to plan their actions, which is crucial for tasks like object manipulation and navigation.
+
+[Read Full Paper](https://arxiv.org/abs/2512.09929v1)
+---
+
 ### ⚡ 2025-12-10: Astra: General Interactive World Model with Autoregressive Denoising
 > **Simple Summary:** Here's an explanation of the AI research paper in simple terms:
 
