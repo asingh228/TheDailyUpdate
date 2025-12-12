@@ -1,5 +1,15 @@
 
 
+### ⚡ 2025-12-12: Bidirectional Normalizing Flow: From Data to Noise and Back
+> **Simple Summary:** Here's an explanation of the AI research paper in simple terms:
+
+This paper introduces a new way of generating images or data using a technique called "Normalizing Flow." Imagine you have a camera that takes a picture of a scene, but instead of showing you the exact picture, it shows you a completely random noise pattern. The problem is, reversing this process to get back the original image is very difficult and time-consuming. The authors of this paper, however, figured out a way to bypass this limitation by learning a new "reverse" model that helps us get back to the original image, making the process much faster and more efficient.
+
+This matters because it can help improve the quality of generated images and data, and make it easier to use these techniques in real-world applications, such as computer vision, healthcare, or other industries where high-quality data generation is crucial.
+
+[Read Full Paper](https://arxiv.org/abs/2512.10953v1)
+---
+
 ### ⚡ 2025-12-11: Closing the Train-Test Gap in World Models for Gradient-Based Planning
 > **Simple Summary:** Imagine you have a robot that needs to navigate through a complex environment, like a warehouse. To do this, it needs to predict what will happen next and decide the best path to take. A "world model" is like a simulator that helps the robot make these predictions. 
 
