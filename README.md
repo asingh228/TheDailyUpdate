@@ -1,5 +1,13 @@
 
 
+### ⚡ 2025-12-15: A General Algorithm for Detecting Higher-Order Interactions via Random Sequential Additions
+> **Simple Summary:** **What it does:** This research paper presents a new way to analyze how different components in a system interact with each other. By adding these components in random orders and tracking their effects, it creates a pattern that reveals how they work together, whether some components are redundant, or if they work independently.
+
+**Why it matters:** This method allows researchers to identify complex interactions between components in a system, which is crucial for understanding many real-world problems, such as predicting stock prices, understanding how genes interact in our bodies, or optimizing business processes. By understanding how different components interact, we can make better decisions and improve performance in various domains.
+
+[Read Full Paper](https://arxiv.org/abs/2512.11793v1)
+---
+
 ### ⚡ 2025-12-12: Bidirectional Normalizing Flow: From Data to Noise and Back
 > **Simple Summary:** Here's an explanation of the AI research paper in simple terms:
 
