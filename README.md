@@ -1,5 +1,17 @@
 
 
+### ⚡ 2025-12-17: Spherical Leech Quantization for Visual Tokenization and Generation
+> **Simple Summary:** Let me break down this research paper in simple terms.
+
+**What it does:**
+This paper presents a new way to represent images using a unique math concept called the Leech lattice. By applying this concept, the researchers created a more efficient method to compress and reconstruct images. This allows for better image quality while using fewer computer resources.
+
+**Why it matters:**
+This breakthrough has the potential to revolutionize how images are stored and transmitted online. With more efficient image compression, websites and social media platforms can load faster, and users can upload and share high-quality images without the need for large file sizes. This could significantly improve user experience and open up new possibilities for image-based applications.
+
+[Read Full Paper](https://arxiv.org/abs/2512.14697v1)
+---
+
 ### ⚡ 2025-12-15: A General Algorithm for Detecting Higher-Order Interactions via Random Sequential Additions
 > **Simple Summary:** **What it does:** This research paper presents a new way to analyze how different components in a system interact with each other. By adding these components in random orders and tracking their effects, it creates a pattern that reveals how they work together, whether some components are redundant, or if they work independently.
 
