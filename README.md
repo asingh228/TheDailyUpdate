@@ -1,5 +1,15 @@
 
 
+### ⚡ 2025-12-18: Predictive Concept Decoders: Training Scalable End-to-End Interpretability Assistants
+> **Simple Summary:** Here's an explanation of the AI research paper in simple terms:
+
+This paper proposes a way to make complex AI models more understandable by creating a 'translator' that can explain their decisions. This translator, called a Predictive Concept Decoder, takes the internal workings of the AI model and turns them into simple, understandable concepts that can be easily explained in natural language. By doing this, the AI model becomes more transparent and reliable, making it easier to identify potential problems or biases.
+
+This matters because as AI models become more complex and powerful, it's increasingly difficult to understand why they make certain decisions. By creating a more transparent AI model, we can build trust in these systems and use them more effectively in applications such as healthcare, finance, and education.
+
+[Read Full Paper](https://arxiv.org/abs/2512.15712v1)
+---
+
 ### ⚡ 2025-12-17: Spherical Leech Quantization for Visual Tokenization and Generation
 > **Simple Summary:** Let me break down this research paper in simple terms.
 
