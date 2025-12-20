@@ -1,5 +1,17 @@
 
 
+### ⚡ 2025-12-20: Generative Adversarial Reasoner: Enhancing LLM Reasoning with Adversarial Reinforcement Learning
+> **Simple Summary:** **What it does:**
+
+This research paper presents a new way to improve the reasoning abilities of large language models, which are powerful computer programs that can understand and generate human-like text. The new approach trains two AI models together: one to reason and provide answers, and another to check the reasoner's work for errors. This collaboration helps the reasoner to provide better answers and explanations.
+
+**Why it matters:**
+
+The improved reasoning abilities of these AI models can help us in various areas, such as solving complex mathematical problems, generating accurate explanations, and even creating new mathematical proofs. By making AI models more reliable and trustworthy, we can unlock new possibilities in areas like education, research, and decision-making.
+
+[Read Full Paper](https://arxiv.org/abs/2512.16917v1)
+---
+
 ### ⚡ 2025-12-18: Predictive Concept Decoders: Training Scalable End-to-End Interpretability Assistants
 > **Simple Summary:** Here's an explanation of the AI research paper in simple terms:
 
