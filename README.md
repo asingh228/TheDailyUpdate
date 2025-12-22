@@ -1,5 +1,15 @@
 
 
+### ⚡ 2025-12-22: Re-Depth Anything: Test-Time Depth Refinement via Self-Supervised Re-lighting
+> **Simple Summary:** Here's an explanation of the paper in simple terms:
+
+**What it does:** This research paper presents a new way to improve the accuracy of depth estimation in images using artificial intelligence. It does this by combining two powerful AI models, which helps to overcome limitations in the training data and produce more realistic results. 
+
+**Why it matters:** By refining depth estimation, this method can enable better applications such as 3D modeling, robotics, and even virtual reality, which rely on accurate depth information. The breakthrough in this research also opens up new avenues for self-supervision, allowing AI models to learn from their own performance and improve continuously.
+
+[Read Full Paper](https://arxiv.org/abs/2512.17908v1)
+---
+
 ### ⚡ 2025-12-20: Generative Adversarial Reasoner: Enhancing LLM Reasoning with Adversarial Reinforcement Learning
 > **Simple Summary:** **What it does:**
 
