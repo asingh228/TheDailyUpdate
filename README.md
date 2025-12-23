@@ -1,5 +1,15 @@
 
 
+### ⚡ 2025-12-23: Pushing the Frontier of Audiovisual Perception with Large-Scale Multimodal Correspondence Learning
+> **Simple Summary:** Let me break down this research paper for you in simple terms.
+
+**What it does:** This AI research paper introduces a new system called PE-AV that helps computers understand both visual (video) and auditory (audio) information more accurately. It trains computers to connect audio and video in a way that's consistent across different types of inputs, like speech, music, or text.
+
+**Why it matters:** This innovation has the potential to revolutionize how computers interact with the world by enabling them to better understand and process audio and visual information simultaneously. This could lead to significant advancements in applications like speech recognition, video analysis, and multimedia search. For instance, imagine being able to search for a specific song or video by simply typing a few words, or having a computer automatically transcribe and translate audio recordings in real-time.
+
+[Read Full Paper](https://arxiv.org/abs/2512.19687v1)
+---
+
 ### ⚡ 2025-12-22: Re-Depth Anything: Test-Time Depth Refinement via Self-Supervised Re-lighting
 > **Simple Summary:** Here's an explanation of the paper in simple terms:
 
