@@ -1,5 +1,15 @@
 
 
+### ⚡ 2025-12-25: Optimizing Decoding Paths in Masked Diffusion Models by Quantifying Uncertainty
+> **Simple Summary:** Here's an explanation of the AI research paper in 2-3 clear, engaging sentences:
+
+This research paper focuses on improving the performance of a type of artificial intelligence model called Masked Diffusion Models. These models can generate new text or images, but the quality of their output depends on the order in which they process the information. By developing a new way to measure and control this uncertainty, the researchers were able to create more accurate and reliable outputs, which is significant because it can help AI models discover better solutions to complex problems.
+
+In simpler terms, think of it like a writer trying to complete a sentence. They might start with a few words and then add more, but if they add the words in the wrong order, the sentence might not make sense. This research paper is like finding a way to predict which order of words will result in a coherent and accurate sentence, allowing the AI model to produce better results.
+
+[Read Full Paper](https://arxiv.org/abs/2512.21336v1)
+---
+
 ### ⚡ 2025-12-23: Pushing the Frontier of Audiovisual Perception with Large-Scale Multimodal Correspondence Learning
 > **Simple Summary:** Let me break down this research paper for you in simple terms.
 
