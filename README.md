@@ -1,5 +1,15 @@
 
 
+### ⚡ 2025-12-29: Explainable Multimodal Regression via Information Decomposition
+> **Simple Summary:** Here's a simplified explanation of the research paper:
+
+**What it does:** This paper presents a new way to analyze data from multiple sources (like images, text, or sounds) and make predictions about a specific outcome. It does this by breaking down each source of data into three types of contributions: what's unique to that source, what's redundant (i.e., already present in another source), and what's new when combined with other sources.
+
+**Why it matters:** This new approach makes it easier to understand how each source of data contributes to the final prediction, which is crucial for trustworthy decision-making and transparent AI systems. By revealing the strengths and weaknesses of each data source, it also helps identify the most important sources to use, making the entire process more efficient and accurate.
+
+[Read Full Paper](https://arxiv.org/abs/2512.22102v1)
+---
+
 ### ⚡ 2025-12-25: Optimizing Decoding Paths in Masked Diffusion Models by Quantifying Uncertainty
 > **Simple Summary:** Here's an explanation of the AI research paper in 2-3 clear, engaging sentences:
 
