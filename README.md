@@ -1,5 +1,13 @@
 
 
+### ⚡ 2025-12-30: Training AI Co-Scientists Using Rubric Rewards
+> **Simple Summary:** Here's an explanation of the research paper in 3 clear, engaging sentences that a non-technical audience can understand:
+
+This research paper focuses on creating an artificial intelligence system that helps scientists plan and conduct research more efficiently. The AI is trained to generate research plans based on real-world examples of research papers, and it gets better at doing so by learning from its own mistakes. By improving the AI's ability to create effective research plans, scientists can work more productively and achieve their goals faster, which is a significant step forward in the development of AI technology that assists human researchers.
+
+[Read Full Paper](https://arxiv.org/abs/2512.23707v1)
+---
+
 ### ⚡ 2025-12-29: Explainable Multimodal Regression via Information Decomposition
 > **Simple Summary:** Here's a simplified explanation of the research paper:
 
