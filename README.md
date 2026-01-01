@@ -1,5 +1,15 @@
 
 
+### ⚡ 2026-01-01: Coordinated Humanoid Manipulation with Choice Policies
+> **Simple Summary:** Here's an explanation of the research paper in simple terms:
+
+This paper proposes a system that allows a humanoid robot to perform complex tasks in a human environment, like loading a dishwasher or wiping a whiteboard. The system achieves this by breaking down the robot's movements into smaller, manageable parts, making it easier to teach and learn new tasks. By doing so, the robot can learn to perform these tasks efficiently and effectively, paving the way for robots to work alongside humans in real-world scenarios.
+
+This research matters because it brings us closer to creating robots that can interact with and assist humans in everyday situations, which could greatly improve productivity and quality of life.
+
+[Read Full Paper](https://arxiv.org/abs/2512.25072v1)
+---
+
 ### ⚡ 2025-12-30: Training AI Co-Scientists Using Rubric Rewards
 > **Simple Summary:** Here's an explanation of the research paper in 3 clear, engaging sentences that a non-technical audience can understand:
 
