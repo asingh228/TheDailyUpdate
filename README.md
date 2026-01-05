@@ -1,5 +1,15 @@
 
 
+### ⚡ 2026-01-05: Two Deep Learning Approaches for Automated Segmentation of Left Ventricle in Cine Cardiac MRI
+> **Simple Summary:** Here's an explanation of the AI research paper in simple terms:
+
+**What it does:** This paper proposes two new artificial intelligence systems that can automatically identify and outline the left ventricle (a crucial part of the heart) in medical images taken from MRI scans. These systems use advanced computer algorithms to analyze the images and provide a more accurate and precise outline of the heart.
+
+**Why it matters:** This research has the potential to improve medical diagnosis and treatment for heart conditions by providing doctors with more accurate and detailed images of the heart. This can lead to better patient outcomes and more effective treatments. The new AI systems are also more efficient and accurate than existing methods, which means that doctors can rely on them to make more informed decisions.
+
+[Read Full Paper](https://arxiv.org/abs/2601.00794v1)
+---
+
 ### ⚡ 2026-01-01: Coordinated Humanoid Manipulation with Choice Policies
 > **Simple Summary:** Here's an explanation of the research paper in simple terms:
 
