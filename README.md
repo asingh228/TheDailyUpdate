@@ -1,5 +1,15 @@
 
 
+### ⚡ 2026-01-06: Heterogeneous Low-Bandwidth Pre-Training of LLMs
+> **Simple Summary:** Here's an explanation of the research paper in simple terms:
+
+This AI research paper explores a way to train large language models more efficiently, especially when working with limited internet bandwidth. It introduces a new method that allows different devices to work together on the training process, using some devices with high-speed internet and others with slower connections. This innovation enables faster and more cost-effective training of large language models, which can be used for various applications like chatbots, virtual assistants, and language translation.
+
+Why it matters: This breakthrough has the potential to make AI research and development more accessible and affordable, especially for organizations or individuals with limited resources. It can also accelerate the creation of more sophisticated language models that can be used in various industries, from healthcare and education to customer service and more.
+
+[Read Full Paper](https://arxiv.org/abs/2601.02360v1)
+---
+
 ### ⚡ 2026-01-05: Two Deep Learning Approaches for Automated Segmentation of Left Ventricle in Cine Cardiac MRI
 > **Simple Summary:** Here's an explanation of the AI research paper in simple terms:
 
