@@ -1,5 +1,15 @@
 
 
+### ⚡ 2026-01-08: Lightweight Test-Time Adaptation for EMG-Based Gesture Recognition
+> **Simple Summary:** Here's an explanation of the research paper in 3 clear, engaging sentences:
+
+This AI research paper proposes a new way to improve the accuracy of a technology that recognizes hand gestures using tiny electrical signals from muscles (called EMG). The innovation allows the system to adapt quickly to changing conditions, such as fatigue or posture changes, without needing a lot of data or powerful computing. This breakthrough has the potential to revolutionize prosthetic control by enabling reliable, long-term use of prosthetic limbs that can be easily controlled by users with minimal setup and training.
+
+In simpler terms, the AI system can 'learn' to adjust itself in real-time to match a user's changing abilities, ensuring a more seamless and reliable experience with prosthetic limbs.
+
+[Read Full Paper](https://arxiv.org/abs/2601.04181v1)
+---
+
 ### ⚡ 2026-01-07: Self-Supervised Learning from Noisy and Incomplete Data
 > **Simple Summary:** Here's an explanation of the research paper in a non-technical way:
 
