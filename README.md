@@ -1,5 +1,15 @@
 
 
+### ⚡ 2026-01-09: Optimal Lower Bounds for Online Multicalibration
+> **Simple Summary:** Let me break down this research paper for you in simple terms.
+
+**What it does:** This paper explores a concept called "online multicalibration" which is a way to ensure that AI systems make fair and unbiased predictions in real-time, involving multiple groups of people. The researchers developed a mathematical framework to understand the limitations of achieving this fairness in AI.
+
+**Why it matters:** By establishing a lower bound on the performance of AI systems that aim to achieve fairness, this research provides a crucial benchmark for future AI development. It helps us understand what is possible and what is not, ultimately leading to more reliable and trustworthy AI systems that can be used in various industries and applications.
+
+[Read Full Paper](https://arxiv.org/abs/2601.05245v1)
+---
+
 ### ⚡ 2026-01-08: Lightweight Test-Time Adaptation for EMG-Based Gesture Recognition
 > **Simple Summary:** Here's an explanation of the research paper in 3 clear, engaging sentences:
 
