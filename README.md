@@ -1,5 +1,17 @@
 
 
+### ⚡ 2026-01-12: Manifold limit for the training of shallow graph convolutional neural networks
+> **Simple Summary:** Here's a simplified explanation of the research paper:
+
+**What it does:** 
+This study helps create more accurate and robust AI models that can analyze complex data by looking at it across different levels of detail. It does this by making sure the AI model's 'training data' is consistent, even when the data is presented in different levels of resolution.
+
+**Why it matters:**
+This research is significant because it allows AI models to work more effectively with complex data, making them more useful in real-world applications like image and video analysis, self-driving cars, and medical imaging. By providing a framework for creating more accurate AI models, this study can help improve the reliability and effectiveness of these models, which can lead to better decision-making and outcomes.
+
+[Read Full Paper](https://arxiv.org/abs/2601.06025v1)
+---
+
 ### ⚡ 2026-01-09: Optimal Lower Bounds for Online Multicalibration
 > **Simple Summary:** Let me break down this research paper for you in simple terms.
 
