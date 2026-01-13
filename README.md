@@ -1,5 +1,17 @@
 
 
+### ⚡ 2026-01-13: A Complete Decomposition of Stochastic Differential Equations
+> **Simple Summary:** Let me break down this research paper in simpler terms for you. 
+
+**What it does:**
+This research paper takes complex equations that describe how things change over time and breaks them down into three simpler parts. Think of it like analyzing a company's performance by separating its sales, expenses, and investments, which ultimately affect its overall financial health. By doing so, the researchers can better understand and work with these equations.
+
+**Why it matters:**
+This breakthrough is significant because it will help scientists and engineers make more accurate predictions about how complex systems, like weather patterns, stock markets, or even biological systems, behave over time. By simplifying these systems, researchers can develop more effective strategies to manage and control them, ultimately leading to new innovations and discoveries.
+
+[Read Full Paper](https://arxiv.org/abs/2601.07834v1)
+---
+
 ### ⚡ 2026-01-12: Manifold limit for the training of shallow graph convolutional neural networks
 > **Simple Summary:** Here's a simplified explanation of the research paper:
 
