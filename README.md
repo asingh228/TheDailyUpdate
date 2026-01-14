@@ -1,5 +1,15 @@
 
 
+### ⚡ 2026-01-14: Motion Attribution for Video Generation
+> **Simple Summary:** Here's an explanation of the research paper 'Motion Attribution for Video Generation' in simple terms:
+
+The research paper, 'Motion Attribution for Video Generation,' creates a new method called Motive that helps us understand how data affects the movement in generated videos. This is important because it allows video creators to improve the consistency and realism of video movements by selecting the most influential data to use. By doing so, Motive can significantly enhance the overall quality of generated videos.
+
+In essence, Motive is a tool that helps video generation models learn more accurately by identifying which small changes in the data have the biggest impact on the movement in the video. This way, video creators can make better decisions about what data to use and how to fine-tune their models to produce more realistic and engaging videos.
+
+[Read Full Paper](https://arxiv.org/abs/2601.08828v1)
+---
+
 ### ⚡ 2026-01-13: A Complete Decomposition of Stochastic Differential Equations
 > **Simple Summary:** Let me break down this research paper in simpler terms for you. 
 
