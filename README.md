@@ -1,5 +1,15 @@
 
 
+### ⚡ 2026-01-15: Fast-ThinkAct: Efficient Vision-Language-Action Reasoning via Verbalizable Latent Planning
+> **Simple Summary:** Here's an explanation of the AI research paper in simple terms:
+
+**What it does:** The research paper proposes a new AI system called Fast-ThinkAct that can quickly analyze visual scenes and plan actions to take in those environments. It can do this by breaking down complex thinking into smaller, more manageable parts, making it faster and more efficient.
+
+**Why it matters:** Fast-ThinkAct is important because it can handle complex tasks in real-world situations, such as navigating a cluttered room or fixing a broken machine, without getting stuck or taking too long to make decisions. This could have many practical applications in areas like robotics, healthcare, and customer service, where AI systems need to be able to quickly adapt to changing situations and make effective decisions.
+
+[Read Full Paper](https://arxiv.org/abs/2601.09708v1)
+---
+
 ### ⚡ 2026-01-14: Motion Attribution for Video Generation
 > **Simple Summary:** Here's an explanation of the research paper 'Motion Attribution for Video Generation' in simple terms:
 
