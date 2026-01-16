@@ -1,5 +1,15 @@
 
 
+### ⚡ 2026-01-16: DInf-Grid: A Neural Differential Equation Solver with Differentiable Feature Grids
+> **Simple Summary:** Here's a simplified explanation of the research paper:
+
+**What it does:** This paper presents a new way to solve complex mathematical equations called differential equations using artificial intelligence. It creates a grid-based system that can quickly and accurately calculate the solutions to these equations, which is especially useful in areas like physics and engineering.
+
+**Why it matters:** This breakthrough has the potential to greatly improve the efficiency and accuracy of simulations in various fields, such as computer graphics, medical imaging, and materials science. By allowing researchers and engineers to solve these complex equations in seconds or minutes, this new system can unlock new possibilities for innovation and discovery.
+
+[Read Full Paper](https://arxiv.org/abs/2601.10715v1)
+---
+
 ### ⚡ 2026-01-15: Fast-ThinkAct: Efficient Vision-Language-Action Reasoning via Verbalizable Latent Planning
 > **Simple Summary:** Here's an explanation of the AI research paper in simple terms:
 
