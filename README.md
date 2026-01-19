@@ -1,5 +1,15 @@
 
 
+### ⚡ 2026-01-19: Building Production-Ready Probes For Gemini
+> **Simple Summary:** Here's an explanation of the AI research paper in 3 clear, engaging sentences:
+
+This paper focuses on creating a "probe" - a tool that helps detect when a powerful AI system, like a language model, is being misused by bad actors. The challenge is that these probes don't work well when the AI system is faced with new and more complex situations, which makes it harder to catch misuse. The researchers have developed new probe architectures that can handle these complex situations and have successfully deployed them in Google's language model, Gemini, to help prevent misuse and make the system safer.
+
+In simpler terms, think of this like a security guard who tries to detect suspicious behavior in a company. The probe is like a special tool that helps the guard spot potential threats, but it needs to be able to understand different situations and behaviors to be effective. This research paper shows how to improve that tool so it can catch more threats, making the company safer and more secure.
+
+[Read Full Paper](https://arxiv.org/abs/2601.11516v1)
+---
+
 ### ⚡ 2026-01-16: DInf-Grid: A Neural Differential Equation Solver with Differentiable Feature Grids
 > **Simple Summary:** Here's a simplified explanation of the research paper:
 
