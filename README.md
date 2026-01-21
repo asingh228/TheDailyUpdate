@@ -1,5 +1,15 @@
 
 
+### ⚡ 2026-01-21: Jet-RL: Enabling On-Policy FP8 Reinforcement Learning with Unified Training and Rollout Precision Flow
+> **Simple Summary:** Here's a simplified explanation of the research paper:
+
+**What it does:** This paper introduces a new way to train artificial intelligence (AI) models called Jet-RL, which helps AI learn from its experiences more efficiently. This is done by using a consistent approach for training and using the AI in real situations, which makes the process faster and more stable.
+
+**Why it matters:** By making AI learning more efficient, Jet-RL can help reduce the time and resources needed to train large language models, enabling faster development of more accurate and intelligent AI systems. This can have significant implications for various applications such as virtual assistants, language translation, and decision-making systems.
+
+[Read Full Paper](https://arxiv.org/abs/2601.14243v1)
+---
+
 ### ⚡ 2026-01-19: Building Production-Ready Probes For Gemini
 > **Simple Summary:** Here's an explanation of the AI research paper in 3 clear, engaging sentences:
 
