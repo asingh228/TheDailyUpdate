@@ -1,5 +1,15 @@
 
 
+### ⚡ 2026-01-22: Iterative Refinement Improves Compositional Image Generation
+> **Simple Summary:** Let me break down the research paper in simple terms.
+
+**What it does:** This paper proposes a way to improve AI's ability to generate images based on text descriptions. When you give the AI a complex description, it can struggle to create an accurate image with multiple objects and details. The researchers came up with a technique called "iterative refinement," which is like a step-by-step correction process. The AI generates an image, then checks it against what it was supposed to create, and makes small adjustments to get it closer to the desired result.
+
+**Why it matters:** This technique is significant because it can significantly improve the quality of generated images, especially in complex scenarios. By allowing the AI to refine its creation in small steps, it produces more accurate and realistic images, which can have many practical applications in fields like art, design, and even marketing.
+
+[Read Full Paper](https://arxiv.org/abs/2601.15286v1)
+---
+
 ### ⚡ 2026-01-21: Jet-RL: Enabling On-Policy FP8 Reinforcement Learning with Unified Training and Rollout Precision Flow
 > **Simple Summary:** Here's a simplified explanation of the research paper:
 
