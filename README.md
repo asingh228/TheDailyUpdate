@@ -1,5 +1,15 @@
 
 
+### ⚡ 2026-01-23: Counterfactual Training: Teaching Models Plausible and Actionable Explanations
+> **Simple Summary:** Let me explain this research paper in a simple way.
+
+**What it does:** This paper proposes a new way to train AI models so they can explain their decisions in a way that makes sense and is easy to understand. Instead of trying to add explanations after the model is built, this method includes explanations during the training process to help the model learn how to provide good explanations from the start.
+
+**Why it matters:** This approach is important because it can lead to more trustworthy AI models that can make good decisions without relying too heavily on guesswork. By teaching models to provide clear explanations, we can build more reliable systems that people can have confidence in, which is crucial for applications like self-driving cars, medical diagnosis, and financial decision-making.
+
+[Read Full Paper](https://arxiv.org/abs/2601.16205v1)
+---
+
 ### ⚡ 2026-01-22: Iterative Refinement Improves Compositional Image Generation
 > **Simple Summary:** Let me break down the research paper in simple terms.
 
