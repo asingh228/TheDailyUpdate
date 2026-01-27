@@ -1,5 +1,15 @@
 
 
+### ⚡ 2026-01-27: ctELM: Decoding and Manipulating Embeddings of Clinical Trials with Embedding Language Models
+> **Simple Summary:** Here's a simplified explanation of the AI research paper:
+
+**What it does:** The researchers have created a new tool called ctELM that can understand and generate text about medical studies, or clinical trials, based on numerical codes called embeddings. These embeddings are like shortcuts that describe the content of the text, but are not easily interpretable. ctELM can take these embeddings and turn them back into understandable text, and even use them to generate new, plausible text about medical studies.
+
+**Why it matters:** This tool has the potential to revolutionize the way we analyze and generate text about medical studies, making it easier for researchers and clinicians to understand complex data and identify patterns. It could also help automate the process of generating text about new medical studies, freeing up researchers to focus on more important tasks.
+
+[Read Full Paper](https://arxiv.org/abs/2601.18796v1)
+---
+
 ### ⚡ 2026-01-26: AnyView: Synthesizing Any Novel View in Dynamic Scenes
 > **Simple Summary:** Here's an explanation of the AI research paper in 3 clear, engaging sentences:
 
