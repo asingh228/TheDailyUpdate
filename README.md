@@ -1,5 +1,15 @@
 
 
+### ⚡ 2026-01-28: Self-Distillation Enables Continual Learning
+> **Simple Summary:** Here's a simplified explanation of the research paper:
+
+**What it does:** This AI research paper introduces a new method called Self-Distillation Fine-Tuning, which allows artificial intelligence models to learn new skills without forgetting the ones they already know. This method uses a model's own predictions as a teacher to help it learn from expert demonstrations, without needing explicit rewards.
+
+**Why it matters:** By using this method, AI models can improve their performance over time without losing their original abilities, which is essential for real-world applications like self-driving cars, personal assistants, and language translation systems. This breakthrough can make AI models more efficient and effective in learning from new experiences and adapting to changing situations.
+
+[Read Full Paper](https://arxiv.org/abs/2601.19897v1)
+---
+
 ### ⚡ 2026-01-27: ctELM: Decoding and Manipulating Embeddings of Clinical Trials with Embedding Language Models
 > **Simple Summary:** Here's a simplified explanation of the AI research paper:
 
