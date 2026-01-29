@@ -1,5 +1,15 @@
 
 
+### ⚡ 2026-01-29: Evolutionary Strategies lead to Catastrophic Forgetting in LLMs
+> **Simple Summary:** Here's an explanation of the research paper in simple terms:
+
+This study explores a new way to train AI models, called Evolutionary Strategies (ES), which doesn't rely on traditional learning methods. ES can help AI models learn from data when they're already deployed, but the problem is that it causes them to "forget" the things they learned earlier, which is a major setback for continual learning. In essence, ES is like a student who masters a new skill, but forgets everything they already knew.
+
+What's important about this research is that it highlights a significant limitation of ES, which is a promising approach for AI learning, but needs to be improved for practical use. By understanding why ES causes AI models to forget, researchers can work on developing new methods that combine the benefits of ES with the ability to retain learned knowledge over time.
+
+[Read Full Paper](https://arxiv.org/abs/2601.20861v1)
+---
+
 ### ⚡ 2026-01-28: Self-Distillation Enables Continual Learning
 > **Simple Summary:** Here's a simplified explanation of the research paper:
 
