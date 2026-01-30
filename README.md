@@ -1,5 +1,15 @@
 
 
+### ⚡ 2026-01-30: Discovering Hidden Gems in Model Repositories
+> **Simple Summary:** Here's an explanation of the research paper in simple terms:
+
+This paper is about finding the best "hidden gems" in a huge collection of pre-trained models that are stored online. These models are like super-smart tools that can be used to solve various tasks, but most people use the same few popular ones. The researchers discovered that many other models are even better, but nobody knows about them because they're not used often. They found that some of these hidden gems can perform tasks up to 13% better than the popular ones.
+
+Why does this matter? It's like having access to a treasure trove of talented employees who are not being utilized. By using these hidden gems, organizations can potentially improve their performance, save time and resources, and stay ahead of the competition.
+
+[Read Full Paper](https://arxiv.org/abs/2601.22157v1)
+---
+
 ### ⚡ 2026-01-29: Evolutionary Strategies lead to Catastrophic Forgetting in LLMs
 > **Simple Summary:** Here's an explanation of the research paper in simple terms:
 
