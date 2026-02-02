@@ -1,5 +1,15 @@
 
 
+### ⚡ 2026-02-02: VideoGPA: Distilling Geometry Priors for 3D-Consistent Video Generation
+> **Simple Summary:** Here's a simplified explanation of the research paper:
+
+**What it does:** This AI research paper introduces a new system called VideoGPA, which helps create more realistic 3D videos. It does this by using a special "map" of how objects in the video should move and stay together in 3D space.
+
+**Why it matters:** Current video creation methods often produce videos that look nice but don't accurately represent how objects in the real world move and interact. This can lead to weird deformations or movements in the video. VideoGPA solves this problem by creating a more accurate and realistic 3D video, which is important for applications like movies, video games, and virtual reality.
+
+[Read Full Paper](https://arxiv.org/abs/2601.23286v1)
+---
+
 ### ⚡ 2026-01-30: Discovering Hidden Gems in Model Repositories
 > **Simple Summary:** Here's an explanation of the research paper in simple terms:
 
