@@ -1,5 +1,15 @@
 
 
+### ⚡ 2026-02-03: Reward-free Alignment for Conflicting Objectives
+> **Simple Summary:** Here's a simplified explanation of the AI research paper:
+
+**What it does:** This paper proposes a new way to align large language models with human preferences, even when those preferences conflict with each other. It uses a new framework called RACO that helps the model learn from pairwise comparisons of what humans like and dislike, rather than trying to optimize multiple rewards or objectives separately.
+
+**Why it matters:** By resolving these conflicts and finding a balance between different objectives, RACO can improve the performance of large language models in tasks like text summarization and safety alignment, leading to more accurate and reliable results. This has significant implications for applications like chatbots, virtual assistants, and content generation, where models need to navigate complex preferences and constraints to produce high-quality outputs.
+
+[Read Full Paper](https://arxiv.org/abs/2602.02495v1)
+---
+
 ### ⚡ 2026-02-02: VideoGPA: Distilling Geometry Priors for 3D-Consistent Video Generation
 > **Simple Summary:** Here's a simplified explanation of the research paper:
 
