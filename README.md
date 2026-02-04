@@ -1,5 +1,15 @@
 
 
+### ⚡ 2026-02-04: PLATE: Plasticity-Tunable Efficient Adapters for Geometry-Aware Continual Learning
+> **Simple Summary:** Here's an explanation of the research paper in simple terms:
+
+**What it does:** This AI research paper introduces a new method called PLATE, which allows a pre-trained AI model to learn new tasks without needing access to the old data. This is a big deal because pre-trained models are often used in real-world applications, but updating them with new information can be tricky.
+
+**Why it matters:** PLATE matters because it solves a common problem in AI development, known as "continual learning," where a model needs to learn new things without losing its old knowledge. This breakthrough enables AI models to become more adaptable and useful in real-world situations, making them more valuable for businesses, researchers, and the public.
+
+[Read Full Paper](https://arxiv.org/abs/2602.03846v1)
+---
+
 ### ⚡ 2026-02-03: Reward-free Alignment for Conflicting Objectives
 > **Simple Summary:** Here's a simplified explanation of the AI research paper:
 
