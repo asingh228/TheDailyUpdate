@@ -1,5 +1,13 @@
 
 
+### ⚡ 2026-02-06: Shared LoRA Subspaces for almost Strict Continual Learning
+> **Simple Summary:** Here's an explanation of the research paper in 3 clear, engaging sentences:
+
+The paper presents a new approach called "Share" that helps large AI models learn new tasks without forgetting what they've already learned. This is important because it enables AI systems to continuously improve and adapt to new information, similar to how humans learn and remember new things. By using Share, AI models can learn new tasks more efficiently and with much less data, making it a promising solution for real-world applications where AI needs to constantly learn and adapt.
+
+[Read Full Paper](https://arxiv.org/abs/2602.06043v1)
+---
+
 ### ⚡ 2026-02-05: Reinforced Attention Learning
 > **Simple Summary:** Here's a simplified explanation of the research paper:
 
