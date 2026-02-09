@@ -1,5 +1,15 @@
 
 
+### ⚡ 2026-02-09: Learning a Generative Meta-Model of LLM Activations
+> **Simple Summary:** Here's a simplified explanation of the research paper:
+
+**What it does:** This research paper develops a new way to analyze the internal workings of large language models (LLMs) using a type of artificial intelligence called a generative model. It trains the model on a massive dataset of LLM activations to learn the patterns and structure within the model's behavior.
+
+**Why it matters:** This approach could help us better understand how LLMs work, which is crucial for improving their performance, accuracy, and reliability. By gaining insights into the model's internal states, developers can create more efficient and effective LLMs, leading to breakthroughs in natural language processing and potentially transforming industries such as customer service, content creation, and more.
+
+[Read Full Paper](https://arxiv.org/abs/2602.06964v1)
+---
+
 ### ⚡ 2026-02-06: Shared LoRA Subspaces for almost Strict Continual Learning
 > **Simple Summary:** Here's an explanation of the research paper in 3 clear, engaging sentences:
 
