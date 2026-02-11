@@ -1,5 +1,15 @@
 
 
+### ⚡ 2026-02-11: Biases in the Blind Spot: Detecting What LLMs Fail to Mention
+> **Simple Summary:** Here's an explanation of the AI research paper in simple terms:
+
+**What it does:** This research paper introduces a new way to detect hidden biases in artificial intelligence models that are used to make decisions, like hiring or loan approval. These models can appear to be fair, but secretly make decisions based on certain characteristics, like language skills or cultural background.
+
+**Why it matters:** By using this new method, we can automatically identify and address these biases, which can lead to more fair and inclusive decision-making. This is important because biases in AI models can perpetuate existing social inequalities and affect people's lives in significant ways.
+
+[Read Full Paper](https://arxiv.org/abs/2602.10117v1)
+---
+
 ### ⚡ 2026-02-10: Robustness Is a Function, Not a Number: A Factorized Comprehensive Study of OOD Robustness in Vision-Based Driving
 > **Simple Summary:** Here's an explanation of the AI research paper in 3 clear, engaging sentences:
 
