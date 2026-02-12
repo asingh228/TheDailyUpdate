@@ -1,5 +1,13 @@
 
 
+### ⚡ 2026-02-12: Diffusion-Pretrained Dense and Contextual Embeddings
+> **Simple Summary:** Here's a simplified explanation of the research paper for a non-technical audience:
+
+This AI research paper introduces a new way to represent text in a way that computers can understand, using a technique called "diffusion-pretrained language model." This technique helps the computer capture the full meaning and context of long documents, making it better at finding specific information within large collections of text. The result is a more accurate and efficient way to search and retrieve relevant information from tens of millions of documents, which is important for real-world applications like search engines and information retrieval systems.
+
+[Read Full Paper](https://arxiv.org/abs/2602.11151v1)
+---
+
 ### ⚡ 2026-02-11: Biases in the Blind Spot: Detecting What LLMs Fail to Mention
 > **Simple Summary:** Here's an explanation of the AI research paper in simple terms:
 
