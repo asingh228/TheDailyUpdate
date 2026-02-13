@@ -1,5 +1,15 @@
 
 
+### ⚡ 2026-02-13: UniT: Unified Multimodal Chain-of-Thought Test-time Scaling
+> **Simple Summary:** Here's a simplified explanation of the paper:
+
+**What it does:** This research creates a new framework called UniT, which allows a single AI model to learn from and improve upon its own mistakes in a step-by-step process. This process, called chain-of-thought, enables the AI to better understand and generate text and images, especially in complex tasks.
+
+**Why it matters:** By allowing the AI to refine its own understanding and generation, UniT improves the AI's ability to handle complex and nuanced tasks, such as understanding instructions, verifying intermediate results, and making iterative corrections. This breakthrough has the potential to significantly enhance the performance of AI models in various applications, from language translation to image generation.
+
+[Read Full Paper](https://arxiv.org/abs/2602.12279v1)
+---
+
 ### ⚡ 2026-02-12: Diffusion-Pretrained Dense and Contextual Embeddings
 > **Simple Summary:** Here's a simplified explanation of the research paper for a non-technical audience:
 
