@@ -1,5 +1,15 @@
 
 
+### ⚡ 2026-02-16: Imitating What Works: Simulation-Filtered Modular Policy Learning from Human Videos
+> **Simple Summary:** Here's a simplified explanation of the AI research paper:
+
+**What it does:** This AI system uses videos of humans performing tasks to teach robots how to perform similar actions, like picking up an object and then moving it. It especially focuses on tasks that need a stable grasp, like holding a cup of coffee.
+
+**Why it matters:** By using this approach, robots can learn new skills much faster and with more accuracy than before, without having to physically practice and risk breaking things. This is especially important for robots that need to work in real-world environments, like factories or hospitals, where safety and precision are crucial.
+
+[Read Full Paper](https://arxiv.org/abs/2602.13197v1)
+---
+
 ### ⚡ 2026-02-13: UniT: Unified Multimodal Chain-of-Thought Test-time Scaling
 > **Simple Summary:** Here's a simplified explanation of the paper:
 
