@@ -1,5 +1,13 @@
 
 
+### ⚡ 2026-02-17: Symmetry in language statistics shapes the geometry of model representations
+> **Simple Summary:** Here's an explanation of the research paper in simple terms:
+
+This study investigates how AI models learn to understand language and represent it in a way that's useful. The researchers found that the AI models are able to create simple, geometric patterns based on language data, such as arranging months of the year in a circle or cities on a map in a straight line. This matters because it shows that AI models are not just memorizing language patterns, but are actually learning deeper, more meaningful relationships between words and concepts.
+
+[Read Full Paper](https://arxiv.org/abs/2602.15029v1)
+---
+
 ### ⚡ 2026-02-16: Imitating What Works: Simulation-Filtered Modular Policy Learning from Human Videos
 > **Simple Summary:** Here's a simplified explanation of the AI research paper:
 
