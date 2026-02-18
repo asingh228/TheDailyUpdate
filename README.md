@@ -1,5 +1,15 @@
 
 
+### ⚡ 2026-02-18: Ensemble-size-dependence of deep-learning post-processing methods that minimize an (un)fair score: motivating examples and a proof-of-concept solution
+> **Simple Summary:** Here's a simplified explanation of the research paper:
+
+**What it does:** This paper explores how to improve the accuracy of weather forecasts by using multiple models (or "ensemble") and applying advanced machine learning techniques to combine their predictions. The goal is to create a more reliable and unbiased forecast.
+
+**Why it matters:** The research shows that current methods for combining multiple models can be flawed, especially when the number of models is small. However, by introducing a new approach called "trajectory transformers," the researchers were able to create a more accurate and reliable forecast that is not dependent on the size of the ensemble. This breakthrough has the potential to lead to more accurate weather forecasts, which can have significant impacts on various industries such as weather-sensitive business, agriculture, and disaster management.
+
+[Read Full Paper](https://arxiv.org/abs/2602.15830v1)
+---
+
 ### ⚡ 2026-02-17: Symmetry in language statistics shapes the geometry of model representations
 > **Simple Summary:** Here's an explanation of the research paper in simple terms:
 
