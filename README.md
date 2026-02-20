@@ -1,5 +1,15 @@
 
 
+### ⚡ 2026-02-20: Sink-Aware Pruning for Diffusion Language Models
+> **Simple Summary:** Here's a simplified explanation of the research paper:
+
+This paper is about improving the efficiency of a type of artificial intelligence model called a language model. These models are used for tasks like answering questions or generating text, but they can be slow and computationally expensive. The researchers found that a common technique for making these models faster (called pruning) doesn't work as well for this type of model as it does for others. They developed a new technique called "Sink-Aware Pruning" that identifies and removes unnecessary parts of the model, making it faster and more efficient without sacrificing its performance.
+
+This matters because it could lead to significant improvements in the speed and scalability of language models, which have many applications in areas like customer service chatbots, search engines, and language translation tools. By making these models faster and more efficient, we can build more powerful and useful AI systems that can help people in a wide range of industries and fields.
+
+[Read Full Paper](https://arxiv.org/abs/2602.17664v1)
+---
+
 ### ⚡ 2026-02-19: Knowledge-Embedded Latent Projection for Robust Representation Learning
 > **Simple Summary:** Here's a simplified explanation of the research paper in 3 clear sentences:
 
