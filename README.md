@@ -1,5 +1,15 @@
 
 
+### ⚡ 2026-02-23: Assigning Confidence: K-partition Ensembles
+> **Simple Summary:** Here's a simplified explanation of the paper:
+
+**What it does:** This research paper introduces a new tool called CAKE that helps evaluate how confident a computer is when it assigns specific data points to clusters. CAKE looks at how consistently the data points are assigned across multiple runs and how well they fit into the cluster structure.
+
+**Why it matters:** This is important because it helps identify which data points are accurately assigned to clusters and which ones might be uncertain or incorrect. This can improve the quality of the clustering results and save time by focusing on the most reliable data points. By providing a confidence score, CAKE can help researchers and practitioners make better decisions when working with complex data.
+
+[Read Full Paper](https://arxiv.org/abs/2602.18435v1)
+---
+
 ### ⚡ 2026-02-20: Sink-Aware Pruning for Diffusion Language Models
 > **Simple Summary:** Here's a simplified explanation of the research paper:
 
