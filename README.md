@@ -1,5 +1,15 @@
 
 
+### ⚡ 2026-02-25: Test-Time Training with KV Binding Is Secretly Linear Attention
+> **Simple Summary:** Here's an explanation of the AI research paper in simple terms:
+
+**What it does:** This paper takes a closer look at a type of artificial intelligence (AI) technique called "test-time training" and finds out that it's not what it initially seemed to be. Instead, it's really a form of "learned linear attention," which helps the AI focus on the most important parts of a problem when making decisions.
+
+**Why it matters:** By understanding how this technique works, the researchers were able to simplify and improve it, making AI models more efficient and effective. This is important because efficient AI models can process information faster and make better decisions, which can lead to breakthroughs in areas like language translation, image recognition, and more.
+
+[Read Full Paper](https://arxiv.org/abs/2602.21204v1)
+---
+
 ### ⚡ 2026-02-24: A Very Big Video Reasoning Suite
 > **Simple Summary:** Here's an explanation of the research paper in simple terms:
 
