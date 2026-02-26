@@ -1,5 +1,15 @@
 
 
+### ⚡ 2026-02-26: Recovered in Translation: Efficient Pipeline for Automated Translation of Benchmarks and Datasets
+> **Simple Summary:** Here's a simplified explanation of the research paper:
+
+This paper presents a new way to translate AI evaluation benchmarks and datasets into multiple languages, ensuring that the translations are accurate and preserve the original meaning. This is important because it allows AI developers to test and compare their models across different languages and cultures more reliably. By providing high-quality translations, this research helps to advance the development of multilingual AI systems that can understand and interact with people from diverse linguistic backgrounds.
+
+In simpler terms, think of it like this: Imagine you're trying to evaluate how well a car can drive on different roads. If the roads are poorly translated or don't match the real roads, you'll get inaccurate results. This research paper provides a way to create accurate and reliable translations of the "roads" (benchmarks and datasets), allowing AI developers to get a clearer picture of how well their models are performing.
+
+[Read Full Paper](https://arxiv.org/abs/2602.22207v1)
+---
+
 ### ⚡ 2026-02-25: Test-Time Training with KV Binding Is Secretly Linear Attention
 > **Simple Summary:** Here's an explanation of the AI research paper in simple terms:
 
