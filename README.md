@@ -1,5 +1,15 @@
 
 
+### ⚡ 2026-03-02: Mode Seeking meets Mean Seeking for Fast Long Video Generation
+> **Simple Summary:** Let me break down this research paper in simple terms:
+
+**What it does:** This paper proposes a new way to generate long videos (like 1-2 minutes) using artificial intelligence. The system learns from a combination of short videos and long videos, allowing it to create videos that not only look realistic but also have a coherent narrative structure.
+
+**Why it matters:** With this system, we can create longer, more engaging videos without requiring a huge amount of high-quality long video data, which is currently scarce. This breakthrough has the potential to revolutionize the field of video generation, enabling applications such as video editing, advertising, and entertainment.
+
+[Read Full Paper](https://arxiv.org/abs/2602.24289v1)
+---
+
 ### ⚡ 2026-02-27: Model Agreement via Anchoring
 > **Simple Summary:** **Paper Summary:**
 
