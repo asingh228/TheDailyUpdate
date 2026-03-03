@@ -1,5 +1,15 @@
 
 
+### ⚡ 2026-03-03: Partial Causal Structure Learning for Valid Selective Conformal Inference under Interventions
+> **Simple Summary:** Let me break down this complex research paper in simple terms.
+
+**What it does:** This research paper helps scientists make more accurate predictions about the effects of changes in a system, like a living cell. They use data from experiments to figure out which parts of the system are connected in a way that affects the outcome. This allows them to make more precise predictions about how changes to the system will impact its behavior.
+
+**Why it matters:** By making more accurate predictions, scientists can better understand how living systems work and develop new treatments for diseases. The paper's findings have the potential to improve the design of experiments in fields like genomics, where researchers study the structure and function of genes and their interactions. This could lead to breakthroughs in our understanding of diseases and the development of new treatments.
+
+[Read Full Paper](https://arxiv.org/abs/2603.02204v1)
+---
+
 ### ⚡ 2026-03-02: Mode Seeking meets Mean Seeking for Fast Long Video Generation
 > **Simple Summary:** Let me break down this research paper in simple terms:
 
