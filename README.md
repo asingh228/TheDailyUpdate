@@ -1,5 +1,15 @@
 
 
+### ⚡ 2026-03-05: SimpliHuMoN: Simplifying Human Motion Prediction
+> **Simple Summary:** Here's a simplified explanation of the AI research paper:
+
+The paper proposes a new AI model called "SimpliHuMoN" that can predict how people will move in the future. This model can track both the position of a person's body (e.g., where their arms and legs are) and the path they will follow (e.g., where they will walk). What's innovative about this model is that it can handle both of these tasks simultaneously, without needing to be adapted for each one separately.
+
+This matters because predicting human motion can have many practical applications, such as improving the performance of self-driving cars, creating more realistic characters in video games, or even helping people with mobility issues to better navigate their surroundings. By developing a more accurate and flexible AI model like SimpliHuMoN, researchers can unlock new possibilities for these applications and more.
+
+[Read Full Paper](https://arxiv.org/abs/2603.04399v1)
+---
+
 ### ⚡ 2026-03-04: CFG-Ctrl: Control-Based Classifier-Free Diffusion Guidance
 > **Simple Summary:** Let me break down this research paper in simple terms.
 
