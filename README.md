@@ -1,5 +1,15 @@
 
 
+### ⚡ 2026-03-06: RoboPocket: Improve Robot Policies Instantly with Your Phone
+> **Simple Summary:** Here's a simplified explanation of the research paper:
+
+**What it does:** A team of researchers created a system called "RoboPocket" that uses a smartphone to help robots learn and improve their actions more efficiently. The system uses augmented reality to show the robot's predicted movements, allowing people to collect data in a more targeted way to identify areas where the robot needs improvement.
+
+**Why it matters:** This innovation is significant because it can help robots learn and adapt faster, which is crucial for applications like manufacturing, logistics, and search and rescue missions. By allowing people to collect data more efficiently and update the robot's policies in real-time, RoboPocket can save time and resources, making robots more effective and reliable.
+
+[Read Full Paper](https://arxiv.org/abs/2603.05504v1)
+---
+
 ### ⚡ 2026-03-05: SimpliHuMoN: Simplifying Human Motion Prediction
 > **Simple Summary:** Here's a simplified explanation of the AI research paper:
 
