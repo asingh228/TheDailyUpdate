@@ -1,5 +1,15 @@
 
 
+### ⚡ 2026-03-09: BEVLM: Distilling Semantic Knowledge from LLMs into Bird's-Eye View Representations
+> **Simple Summary:** Here's an explanation of the research paper in simple terms:
+
+**What it does:** This AI research paper proposes a new way to help self-driving cars make better decisions by combining two types of information: 2D images from different angles and a virtual "bird's-eye view" that shows the entire scene at once. The paper, called BEVLM, connects these two views in a way that helps the car's AI system reason more accurately and safely.
+
+**Why it matters:** By doing so, BEVLM improves the accuracy of self-driving cars in complex driving scenarios by 46% and their overall safety performance by 29%. This is significant because it could lead to more reliable and trustworthy autonomous vehicles on our roads.
+
+[Read Full Paper](https://arxiv.org/abs/2603.06576v1)
+---
+
 ### ⚡ 2026-03-06: RoboPocket: Improve Robot Policies Instantly with Your Phone
 > **Simple Summary:** Here's a simplified explanation of the research paper:
 
