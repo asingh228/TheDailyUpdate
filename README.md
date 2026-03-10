@@ -1,5 +1,15 @@
 
 
+### ⚡ 2026-03-10: Impermanent: A Live Benchmark for Temporal Generalization in Time Series Forecasting
+> **Simple Summary:** Here's a simplified explanation of the AI research paper:
+
+**What it does:** This research paper presents a new way to evaluate how well AI models can predict future events, specifically in the context of time series data (e.g., stock prices, website traffic). The new approach, called Impermanent, continuously tests AI models over time using real-world data from GitHub, allowing researchers to see how the models perform over a longer period.
+
+**Why it matters:** This is important because it helps us understand whether AI models can truly generalize and adapt to changing conditions, or if they're just performing well on a specific snapshot of data. By testing AI models over time, we can better understand their strengths and limitations, which can lead to more accurate and reliable predictions in the real world.
+
+[Read Full Paper](https://arxiv.org/abs/2603.08707v1)
+---
+
 ### ⚡ 2026-03-09: BEVLM: Distilling Semantic Knowledge from LLMs into Bird's-Eye View Representations
 > **Simple Summary:** Here's an explanation of the research paper in simple terms:
 
