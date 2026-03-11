@@ -1,5 +1,15 @@
 
 
+### ⚡ 2026-03-11: Task Aware Modulation Using Representation Learning for Upsaling of Terrestrial Carbon Fluxes
+> **Simple Summary:** Here's an explanation of the research paper in simple terms:
+
+**What it does:** This AI research paper introduces a new way to predict how carbon is exchanged between the Earth's atmosphere and land surfaces. It uses machine learning to combine data from various sources and makes more accurate predictions about carbon levels.
+
+**Why it matters:** This research is crucial because it can help scientists better understand the global carbon budget, which is essential for predicting and addressing climate change. By improving the accuracy of carbon predictions, this research can inform policies and decisions that aim to mitigate climate change and protect the environment.
+
+[Read Full Paper](https://arxiv.org/abs/2603.09974v1)
+---
+
 ### ⚡ 2026-03-10: Impermanent: A Live Benchmark for Temporal Generalization in Time Series Forecasting
 > **Simple Summary:** Here's a simplified explanation of the AI research paper:
 
