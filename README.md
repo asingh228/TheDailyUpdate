@@ -1,5 +1,15 @@
 
 
+### ⚡ 2026-03-12: Neural Field Thermal Tomography: A Differentiable Physics Framework for Non-Destructive Evaluation
+> **Simple Summary:** Here's a simplified explanation of the AI research paper:
+
+**What it does:** This AI system uses thermal imaging (taking pictures of objects using heat) to create 3D pictures of what's inside an object, without damaging it. It does this by combining computer simulations with machine learning algorithms to analyze how heat moves through the object.
+
+**Why it matters:** This system can help industries like manufacturing, aviation, and healthcare detect defects or problems inside objects without causing damage, which can save time and money. It's also more accurate than current methods, allowing for better quality control and safety assessments.
+
+[Read Full Paper](https://arxiv.org/abs/2603.11045v1)
+---
+
 ### ⚡ 2026-03-11: Task Aware Modulation Using Representation Learning for Upsaling of Terrestrial Carbon Fluxes
 > **Simple Summary:** Here's an explanation of the research paper in simple terms:
 
