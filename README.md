@@ -1,5 +1,13 @@
 
 
+### ⚡ 2026-03-13: The Latent Color Subspace: Emergent Order in High-Dimensional Chaos
+> **Simple Summary:** Here's an explanation of the research paper in simple terms:
+
+The paper discusses a way to better understand and control the colors used in computer-generated images. It finds a hidden structure in the way computers represent colors, breaking it down into three main components: the color's hue (its actual color), how bright or dim it is, and its saturation (how vibrant or muted it is). This discovery allows developers to create more precise control over the colors in generated images without needing to retrain the entire system.
+
+[Read Full Paper](https://arxiv.org/abs/2603.12261v1)
+---
+
 ### ⚡ 2026-03-12: Neural Field Thermal Tomography: A Differentiable Physics Framework for Non-Destructive Evaluation
 > **Simple Summary:** Here's a simplified explanation of the AI research paper:
 
