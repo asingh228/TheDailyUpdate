@@ -1,5 +1,15 @@
 
 
+### ⚡ 2026-03-16: PhysMoDPO: Physically-Plausible Humanoid Motion with Preference Optimization
+> **Simple Summary:** Here's a simplified explanation of the AI research paper:
+
+**What it does:** This AI research paper proposes a new way to create realistic, physically-plausible motion for robots or animated characters when given a specific task or instruction. The AI system is trained to not only follow the instructions but also to obey the laws of physics.
+
+**Why it matters:** This innovation matters because it can improve the realism and efficiency of robots and animated characters in various applications, such as film, gaming, or even assisting people with disabilities. By creating more realistic and physically-plausible motion, the AI system can help create more immersive and engaging experiences, and also make robots more capable and safe to interact with.
+
+[Read Full Paper](https://arxiv.org/abs/2603.13228v1)
+---
+
 ### ⚡ 2026-03-13: The Latent Color Subspace: Emergent Order in High-Dimensional Chaos
 > **Simple Summary:** Here's an explanation of the research paper in simple terms:
 
