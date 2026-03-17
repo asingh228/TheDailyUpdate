@@ -1,5 +1,15 @@
 
 
+### ⚡ 2026-03-17: HorizonMath: Measuring AI Progress Toward Mathematical Discovery with Automatic Verification
+> **Simple Summary:** Here's an explanation of the AI research paper in simple terms:
+
+**What it does:** This research paper introduces a new tool called HorizonMath that helps measure whether AI systems, like large language models, can make new discoveries in mathematics. HorizonMath presents over 100 difficult math problems that have not been solved yet, and it uses a special framework to verify whether the AI's answers are correct or not.
+
+**Why it matters:** By creating a way to test AI's math-solving abilities, this research can help us understand whether AI truly has the potential to make groundbreaking discoveries in mathematics, something that has been debated for a while. Moreover, this tool could potentially lead to new and innovative solutions to long-standing math problems, which could have significant impacts in various fields, such as science, engineering, and technology.
+
+[Read Full Paper](https://arxiv.org/abs/2603.15617v1)
+---
+
 ### ⚡ 2026-03-16: PhysMoDPO: Physically-Plausible Humanoid Motion with Preference Optimization
 > **Simple Summary:** Here's a simplified explanation of the AI research paper:
 
