@@ -1,5 +1,15 @@
 
 
+### ⚡ 2026-03-19: Unified Spatio-Temporal Token Scoring for Efficient Video VLMs
+> **Simple Summary:** Here's a simplified explanation of the research paper:
+
+**What it does:** This AI research developed a new technique called Spatio-Temporal Token Scoring (STTS) that helps make video-based AI models more efficient by reducing unnecessary processing. It achieves this by carefully selecting the most important parts of the video for the model to focus on.
+
+**Why it matters:** By using STTS, video-based AI models can process videos more quickly and accurately, which is essential for applications such as video analysis, surveillance, and content creation. This technique can also help reduce the computational resources required for AI tasks, making it more feasible for widespread adoption.
+
+[Read Full Paper](https://arxiv.org/abs/2603.18004v1)
+---
+
 ### ⚡ 2026-03-18: Efficient Reasoning on the Edge
 > **Simple Summary:** Here's a simplified explanation of the research paper:
 
