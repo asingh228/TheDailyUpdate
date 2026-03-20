@@ -1,5 +1,15 @@
 
 
+### ⚡ 2026-03-20: NavTrust: Benchmarking Trustworthiness for Embodied Navigation
+> **Simple Summary:** Here's a clear explanation of the paper:
+
+**What it does:** The authors of this paper created a test system called NavTrust to evaluate how well AI robots can navigate in different environments. They simulated real-world problems like a blurry camera or incorrect instructions to see how the robots perform under these conditions.
+
+**Why it matters:** This research is important because it shows that current AI navigation systems are often not robust and can fail when faced with real-world challenges. By highlighting these weaknesses, the authors aim to improve the reliability and trustworthiness of AI navigation systems, which can ultimately lead to safer and more efficient use of robots in various applications.
+
+[Read Full Paper](https://arxiv.org/abs/2603.19229v1)
+---
+
 ### ⚡ 2026-03-19: Unified Spatio-Temporal Token Scoring for Efficient Video VLMs
 > **Simple Summary:** Here's a simplified explanation of the research paper:
 
