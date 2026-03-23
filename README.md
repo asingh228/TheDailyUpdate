@@ -1,5 +1,13 @@
 
 
+### ⚡ 2026-03-23: From Masks to Pixels and Meaning: A New Taxonomy, Benchmark, and Metrics for VLM Image Tampering
+> **Simple Summary:** Here's an explanation of the research paper in 3 clear, engaging sentences:
+
+This research paper is about developing a more accurate way to detect and understand image tampering (i.e., when someone has edited or manipulated a photo). The current methods for detecting tampering often rely on large areas of the image being altered, but this new approach looks at individual pixels and understands the meaning behind the edits, even if they're small or subtle. This matters because it can help improve the security of images and videos, especially in industries like law enforcement, finance, and journalism, where authenticity is crucial.
+
+[Read Full Paper](https://arxiv.org/abs/2603.20193v1)
+---
+
 ### ⚡ 2026-03-20: NavTrust: Benchmarking Trustworthiness for Embodied Navigation
 > **Simple Summary:** Here's a clear explanation of the paper:
 
