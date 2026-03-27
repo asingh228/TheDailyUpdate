@@ -1,5 +1,15 @@
 
 
+### ⚡ 2026-03-27: Drive My Way: Preference Alignment of Vision-Language-Action Model for Personalized Driving
+> **Simple Summary:** Here's an explanation of the research paper in simple terms:
+
+**What it does:** This AI system, called "Drive My Way," helps self-driving cars learn and adapt to individual drivers' habits and preferences. It takes into account the driver's long-term habits and also responds to their real-time instructions, such as "please slow down" or "merge onto the highway."
+
+**Why it matters:** This system is important because it can help make self-driving cars more comfortable and convenient for drivers. By learning and adapting to individual preferences, it can provide a more personalized experience and potentially make people more willing to trust and use autonomous vehicles. This is a key step towards creating human-centered autonomous driving that meets people's needs and expectations.
+
+[Read Full Paper](https://arxiv.org/abs/2603.25740v1)
+---
+
 ### ⚡ 2026-03-26: Polynomial Speedup in Diffusion Models with the Multilevel Euler-Maruyama Method
 > **Simple Summary:** Here's a simplified explanation of the paper:
 
