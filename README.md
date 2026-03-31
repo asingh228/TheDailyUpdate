@@ -1,5 +1,15 @@
 
 
+### ⚡ 2026-03-31: Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds
+> **Simple Summary:** Let's break down this research paper in simple terms:
+
+**What it does:** This study developed a new tool called Metric Similarity Analysis (MSA), which helps understand how artificial neural networks, like those used in AI, process and interpret information. MSA compares the internal structure of these networks, rather than just how they appear on the surface.
+
+**Why it matters:** This research matters because it can help us better understand how neural networks work, and how they make decisions. By comparing the internal structures of different networks, MSA can reveal subtle differences that might be important for tasks like image recognition or natural language processing. This can lead to more accurate and efficient AI systems.
+
+[Read Full Paper](https://arxiv.org/abs/2603.28764v1)
+---
+
 ### ⚡ 2026-03-27: Drive My Way: Preference Alignment of Vision-Language-Action Model for Personalized Driving
 > **Simple Summary:** Here's an explanation of the research paper in simple terms:
 
