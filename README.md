@@ -1,5 +1,13 @@
 
 
+### ⚡ 2026-04-01: Aligned, Orthogonal or In-conflict: When can we safely optimize Chain-of-Thought?
+> **Simple Summary:** Here's a summary of the research paper in 3 clear, engaging sentences:
+
+This research paper explores how to better understand and control the thought process of artificial intelligence systems, specifically large language models. By analyzing how these models are trained, the researchers found that certain training methods can actually make it harder to understand how the model is thinking, rather than easier. This is important because it highlights the need for careful training methods to ensure that AI systems are transparent and reliable, which is crucial for applications in fields like healthcare, finance, and education.
+
+[Read Full Paper](https://arxiv.org/abs/2603.30036v1)
+---
+
 ### ⚡ 2026-03-31: Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds
 > **Simple Summary:** Let's break down this research paper in simple terms:
 
