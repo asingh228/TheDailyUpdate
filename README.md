@@ -1,5 +1,15 @@
 
 
+### ⚡ 2026-04-02: LAtent Phase Inference from Short time sequences using SHallow REcurrent Decoders (LAPIS-SHRED)
+> **Simple Summary:** Here's a simplified explanation of the research paper:
+
+The LAPIS-SHRED system helps predict and understand complex systems by taking in limited data from short periods of time and filling in the gaps to create a complete picture of what's happening. It does this by using a combination of machine learning models that learn from simulation data and then apply that knowledge to real-world situations. This is important because it allows for better decision-making and a deeper understanding of complex systems, even when we only have limited data to work with.
+
+In simpler terms, LAPIS-SHRED is like a detective who can look at a few clues and accurately reconstruct the whole story, even if the clues are incomplete or limited in time. This can be useful in many fields, such as weather forecasting, predicting the spread of diseases, or understanding the behavior of complex systems in engineering and physics.
+
+[Read Full Paper](https://arxiv.org/abs/2604.01216v1)
+---
+
 ### ⚡ 2026-04-01: Aligned, Orthogonal or In-conflict: When can we safely optimize Chain-of-Thought?
 > **Simple Summary:** Here's a summary of the research paper in 3 clear, engaging sentences:
 
