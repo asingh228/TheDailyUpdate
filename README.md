@@ -1,5 +1,15 @@
 
 
+### ⚡ 2026-04-03: ActionParty: Multi-Subject Action Binding in Generative Video Games
+> **Simple Summary:** Here's a breakdown of the research paper in simple terms:
+
+**What it does:** This AI research paper presents a new technology that allows video games to have multiple players interacting with each other in a virtual world, while also controlling each player's actions. The system, called ActionParty, can keep track of every player's state and behavior, making it possible to have complex and realistic interactions.
+
+**Why it matters:** This innovation has the potential to revolutionize the gaming industry, enabling the creation of more immersive and engaging games with multiple players. It also opens up new possibilities for training AI systems to understand and replicate human-like behavior in complex social situations.
+
+[Read Full Paper](https://arxiv.org/abs/2604.02330v1)
+---
+
 ### ⚡ 2026-04-02: LAtent Phase Inference from Short time sequences using SHallow REcurrent Decoders (LAPIS-SHRED)
 > **Simple Summary:** Here's a simplified explanation of the research paper:
 
