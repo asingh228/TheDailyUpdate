@@ -1,5 +1,15 @@
 
 
+### ⚡ 2026-04-06: Enhancing Robustness of Federated Learning via Server Learning
+> **Simple Summary:** Here's an explanation of the research paper in simple terms:
+
+**What it does:** This paper proposes a new way to make a type of artificial intelligence (AI) called "federated learning" more secure. Federated learning is a way to train AI models using data from many different devices or computers, but with a risk that some of the data could be fake or malicious. The paper's solution is a system that uses a central "server" to help filter out the bad data and improve the accuracy of the AI model.
+
+**Why it matters:** This research is important because it helps to address a major challenge in developing AI systems that can be trusted to make accurate decisions. If an AI model is trained using fake or malicious data, it can lead to poor decisions that have serious consequences. By improving the robustness of federated learning, this research can help to build more reliable and trustworthy AI systems that can be used in a wide range of applications, from healthcare to finance.
+
+[Read Full Paper](https://arxiv.org/abs/2604.03226v1)
+---
+
 ### ⚡ 2026-04-03: ActionParty: Multi-Subject Action Binding in Generative Video Games
 > **Simple Summary:** Here's a breakdown of the research paper in simple terms:
 
