@@ -1,5 +1,15 @@
 
 
+### ⚡ 2026-04-07: Early Stopping for Large Reasoning Models via Confidence Dynamics
+> **Simple Summary:** Here's an explanation of the paper in 3 clear, engaging sentences:
+
+**What it does:** This research proposes a new way for large AI models to know when to stop thinking about a problem and give an answer, in order to be more efficient and accurate. The approach is based on tracking how confident the model is about its intermediate answers, and it can determine when to stop reasoning before wasting too much time or computing power. By doing so, the model can provide a final answer more quickly and with better results.
+
+**Why it matters:** This innovation is important because it can help large AI models solve complex problems more efficiently and effectively, which could have significant implications for applications in science, business, and other fields where speed and accuracy are crucial. By stopping reasoning at the right moment, the model can avoid overthinking and provide a more reliable answer, which can lead to better decision-making and outcomes.
+
+[Read Full Paper](https://arxiv.org/abs/2604.04930v1)
+---
+
 ### ⚡ 2026-04-06: Enhancing Robustness of Federated Learning via Server Learning
 > **Simple Summary:** Here's an explanation of the research paper in simple terms:
 
