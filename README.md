@@ -1,5 +1,17 @@
 
 
+### ⚡ 2026-04-09: Fast Spatial Memory with Elastic Test-Time Training
+> **Simple Summary:** Let me break down this research paper in simple terms.
+
+**What it does:** 
+This AI research paper introduces a new technique called Fast Spatial Memory (FSM) that helps computers learn and remember complex 3D environments over long periods of time. FSM uses a flexible approach that allows it to adapt to new information without forgetting what it already knows.
+
+**Why it matters:** 
+This innovation has significant implications for various fields such as computer vision, robotics, and gaming, where creating realistic and dynamic 3D environments is crucial. By enabling computers to learn and remember complex environments more effectively, FSM can help create more immersive experiences and improve the accuracy of tasks that require understanding and navigating 3D spaces.
+
+[Read Full Paper](https://arxiv.org/abs/2604.07350v1)
+---
+
 ### ⚡ 2026-04-08: In-Place Test-Time Training
 > **Simple Summary:** Here's a simplified explanation of the research paper:
 
