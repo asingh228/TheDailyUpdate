@@ -1,5 +1,15 @@
 
 
+### ⚡ 2026-04-10: Meta-learning In-Context Enables Training-Free Cross Subject Brain Decoding
+> **Simple Summary:** Here's a simplified explanation of the research paper:
+
+**What it does:** This AI research paper introduces a new approach to decode brain signals from images without needing to train a separate model for each person. It uses a "meta-learning" technique that allows the model to learn a person's unique brain patterns from just a few examples.
+
+**Why it matters:** This breakthrough has the potential to revolutionize brain-computer interfaces, allowing people with paralysis or other motor disorders to communicate with the world using just their thoughts. It's also a significant step towards understanding the workings of the human brain and developing new treatments for neurological disorders.
+
+[Read Full Paper](https://arxiv.org/abs/2604.08537v1)
+---
+
 ### ⚡ 2026-04-09: Fast Spatial Memory with Elastic Test-Time Training
 > **Simple Summary:** Let me break down this research paper in simple terms.
 
