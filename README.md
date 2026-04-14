@@ -1,5 +1,13 @@
 
 
+### ⚡ 2026-04-14: Physics-Informed State Space Models for Reliable Solar Irradiance Forecasting in Off-Grid Systems
+> **Simple Summary:** Here's an explanation of the paper in 3 clear sentences:
+
+This research paper presents a new AI model called the Thermodynamic Liquid Manifold Network that improves the prediction of solar power generation in off-grid solar systems. The model does this by correctly accounting for the complex behavior of the atmosphere and clouds, which is crucial for reliable solar power forecasting. The breakthrough is significant because it ensures that the model doesn't make unrealistic predictions, such as generating power at night, and it's also very efficient and can be used in small devices, like microgrid controllers.
+
+[Read Full Paper](https://arxiv.org/abs/2604.11807v1)
+---
+
 ### ⚡ 2026-04-13: Large Language Models Generate Harmful Content Using a Distinct, Unified Mechanism
 > **Simple Summary:** Here's a simplified explanation of the research paper:
 
