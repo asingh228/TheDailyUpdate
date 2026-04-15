@@ -1,5 +1,19 @@
 
 
+### ⚡ 2026-04-15: CLAD: Efficient Log Anomaly Detection Directly on Compressed Representations
+> **Simple Summary:** Here's an explanation of the AI research paper in simple terms:
+
+**What it does:** 
+This research paper introduces a new AI system called CLAD that can identify unusual patterns in computer system logs. These logs can be huge and difficult to process, but CLAD can analyze them directly without needing to first uncompress and understand the data. 
+
+**Why it matters:**
+CLAD is important because it can help organizations quickly detect and respond to potential security threats, errors, or other issues hidden in these log files. By doing so, CLAD can save time and resources, and also help prevent potential problems before they become major issues. 
+
+This system is particularly useful because it can analyze large amounts of log data quickly and efficiently, making it a valuable tool for organizations that generate and process a lot of system logs.
+
+[Read Full Paper](https://arxiv.org/abs/2604.13024v1)
+---
+
 ### ⚡ 2026-04-14: Physics-Informed State Space Models for Reliable Solar Irradiance Forecasting in Off-Grid Systems
 > **Simple Summary:** Here's an explanation of the paper in 3 clear sentences:
 
