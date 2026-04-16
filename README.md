@@ -1,5 +1,15 @@
 
 
+### ⚡ 2026-04-16: From $P(y|x)$ to $P(y)$: Investigating Reinforcement Learning in Pre-train Space
+> **Simple Summary:** Here's an explanation of the paper in simple terms:
+
+**What it does:** This research paper develops a new technique to improve artificial intelligence (AI) models, called "PreRL," which helps them reason and learn more effectively. PreRL is a way to train AI models to think more critically and make better decisions by using rewards and feedback.
+
+**Why it matters:** By using PreRL, AI models can learn to reason and make better decisions more efficiently and effectively, which can lead to breakthroughs in areas like natural language processing, problem-solving, and decision-making. This technique has the potential to make AI more reliable and useful in many real-world applications.
+
+[Read Full Paper](https://arxiv.org/abs/2604.14142v1)
+---
+
 ### ⚡ 2026-04-15: CLAD: Efficient Log Anomaly Detection Directly on Compressed Representations
 > **Simple Summary:** Here's an explanation of the AI research paper in simple terms:
 
