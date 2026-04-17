@@ -1,5 +1,15 @@
 
 
+### ⚡ 2026-04-17: Generalization in LLM Problem Solving: The Case of the Shortest Path
+> **Simple Summary:** Here's an explanation of the paper in simple terms:
+
+**What it does:** This research paper tests how well language models can solve complex problems, like finding the shortest path in a map, when they're given different types of data, trained in different ways, and used in different situations. The researchers created a controlled environment to isolate and understand the factors that affect these models' performance.
+
+**Why it matters:** The results show that these language models are good at adapting to new situations (like finding the shortest path in a new map), but struggle when they need to solve longer, more complex problems. Understanding this limitation is important for developing more effective and reliable language models that can tackle real-world problems.
+
+[Read Full Paper](https://arxiv.org/abs/2604.15306v1)
+---
+
 ### ⚡ 2026-04-16: From $P(y|x)$ to $P(y)$: Investigating Reinforcement Learning in Pre-train Space
 > **Simple Summary:** Here's an explanation of the paper in simple terms:
 
