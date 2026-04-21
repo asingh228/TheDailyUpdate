@@ -1,5 +1,15 @@
 
 
+### ⚡ 2026-04-21: MathNet: a Global Multimodal Benchmark for Mathematical Reasoning and Retrieval
+> **Simple Summary:** Here's an explanation of the AI research paper in 3 clear, engaging sentences:
+
+**What it does:** This research paper introduces a new dataset and benchmark called MathNet, which is a collection of 30,676 high-level math problems from around the world. This dataset is designed to test the ability of AI models to solve math problems, find similar problems, and use those similar problems to help solve new problems. Think of it like a giant math library where AI researchers can test their models and see how well they can perform.
+
+**Why it matters:** MathNet is important because it provides a much-needed test for AI models to demonstrate their math problem-solving abilities, which is crucial for developing intelligent machines that can help with tasks like education, science, and engineering. By evaluating the performance of these models, researchers can identify areas where they need to improve, leading to the development of more accurate and reliable AI systems. Additionally, MathNet's retrieval feature allows researchers to assess how well AI models can find and use similar math problems to help solve new ones, which is a key aspect of human problem-solving.
+
+[Read Full Paper](https://arxiv.org/abs/2604.18584v1)
+---
+
 ### ⚡ 2026-04-20: Geometric regularization of autoencoders via observed stochastic dynamics
 > **Simple Summary:** Let me explain this research paper in simple terms.
 
