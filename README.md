@@ -1,5 +1,15 @@
 
 
+### ⚡ 2026-04-23: FedSIR: Spectral Client Identification and Relabeling for Federated Learning with Noisy Labels
+> **Simple Summary:** Here's a simplified explanation of the paper:
+
+**What it does:** This paper proposes a new method called FedSIR, which helps a group of machines (or clients) work together to improve a shared model without sharing their individual data, even when some of the machines have incorrect labels. FedSIR uses the patterns in the data to identify which machines have accurate labels and which ones don't, and then uses this information to correct the incorrect labels.
+
+**Why it matters:** This is important because when machines work together to improve a model, incorrect labels can greatly affect the overall performance. By correcting these labels, FedSIR helps the machines learn more accurately and improve the overall model. This is particularly useful in real-world applications where data is often messy and noisy, and where machines need to work together to achieve common goals.
+
+[Read Full Paper](https://arxiv.org/abs/2604.20825v1)
+---
+
 ### ⚡ 2026-04-22: Generalization at the Edge of Stability
 > **Simple Summary:** Here's a simplified explanation of the research paper:
 
