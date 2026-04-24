@@ -1,5 +1,19 @@
 
 
+### ⚡ 2026-04-24: Temporal Taskification in Streaming Continual Learning: A Source of Evaluation Instability
+> **Simple Summary:** Here's a breakdown of the research paper in simple terms:
+
+**What it does:** 
+This research paper explores how AI models are tested and evaluated in a specific type of learning called "streaming continual learning." It examines how the way data is divided into smaller tasks during this process affects the results of the evaluation.
+
+**Why it matters:**
+The paper shows that the way we divide data into tasks can significantly impact the performance of AI models, leading to different conclusions when evaluating their performance. This means that previous evaluations might have been biased or incomplete, and that we need to consider this new factor when testing and comparing AI models.
+
+In essence, the paper argues that "taskification" - the process of dividing data into smaller tasks - is not just a neutral step in the learning process, but rather a crucial factor that can affect the results of AI evaluations. Think of it like evaluating the performance of a chef based on how they chop vegetables, rather than just focusing on their cooking skills. The way they chop the vegetables can greatly impact the final dish, and in this case, the way data is divided into tasks can impact the performance of AI models.
+
+[Read Full Paper](https://arxiv.org/abs/2604.21930v1)
+---
+
 ### ⚡ 2026-04-23: FedSIR: Spectral Client Identification and Relabeling for Federated Learning with Noisy Labels
 > **Simple Summary:** Here's a simplified explanation of the paper:
 
