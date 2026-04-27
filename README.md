@@ -1,5 +1,13 @@
 
 
+### ⚡ 2026-04-27: Spend Less, Fit Better: Budget-Efficient Scaling Law Fitting via Active Experiment Selection
+> **Simple Summary:** Here's a clear explanation of the research paper in 3 engaging sentences:
+
+This paper presents a way to efficiently plan and fit complex mathematical models, called scaling laws, that help predict how certain tasks or systems will behave as they grow in size. The challenge is that fitting these models can be extremely expensive and time-consuming, but the new approach uses machine learning to identify the most valuable experiments to run first, allowing for accurate predictions while saving significant resources. This breakthrough has the potential to save millions of dollars in costs associated with training large-scale models, making it a crucial development for businesses and researchers working with complex systems.
+
+[Read Full Paper](https://arxiv.org/abs/2604.22753v1)
+---
+
 ### ⚡ 2026-04-24: Temporal Taskification in Streaming Continual Learning: A Source of Evaluation Instability
 > **Simple Summary:** Here's a breakdown of the research paper in simple terms:
 
