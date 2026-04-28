@@ -1,5 +1,13 @@
 
 
+### ⚡ 2026-04-28: Personalized Worked Example Generation from Student Code Submissions using Pattern-based Knowledge Components
+> **Simple Summary:** Here's a simplified explanation of the research paper:
+
+This study creates a system that generates personalized learning materials, called "worked examples," that are tailored to a student's specific needs. It does this by analyzing the student's own code submissions, identifying patterns and common mistakes, and using that information to create new learning content that directly addresses those areas. This approach has the potential to make learning more effective and efficient, as students receive targeted feedback and support that helps them improve their coding skills.
+
+[Read Full Paper](https://arxiv.org/abs/2604.24758v1)
+---
+
 ### ⚡ 2026-04-27: Spend Less, Fit Better: Budget-Efficient Scaling Law Fitting via Active Experiment Selection
 > **Simple Summary:** Here's a clear explanation of the research paper in 3 engaging sentences:
 
