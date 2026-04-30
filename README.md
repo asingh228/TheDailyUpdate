@@ -1,5 +1,13 @@
 
 
+### ⚡ 2026-04-30: Turning the TIDE: Cross-Architecture Distillation for Diffusion Large Language Models
+> **Simple Summary:** Here's an explanation of the paper in 3 clear, engaging sentences:
+
+The research paper "Turning the TIDE" presents a new way to make large language models (LLMs) more efficient and effective. By creating a system called TIDE, researchers can transfer knowledge from a large, complex LLM to a smaller, simpler one, allowing the smaller model to perform just as well as the larger one on a wide range of tasks. This matters because it could help make LLMs more practical for use in real-world applications, such as generating code or answering questions, by reducing the need for enormous computational resources and large amounts of data.
+
+[Read Full Paper](https://arxiv.org/abs/2604.26951v1)
+---
+
 ### ⚡ 2026-04-29: Recursive Multi-Agent Systems
 > **Simple Summary:** Here's an explanation of the AI research paper in 3 clear sentences:
 
