@@ -1,5 +1,15 @@
 
 
+### ⚡ 2026-05-01: Computing Equilibrium beyond Unilateral Deviation
+> **Simple Summary:** Imagine you're managing a team and making decisions together. You want to make sure everyone is happy with the outcome, but sometimes, a group of team members might try to sneak in a better deal for themselves. This paper is about finding a way to make decisions that minimize the chance of a group of team members exploiting the system.
+
+The research paper introduces a new way to think about decision-making that takes into account the possibility of groups of people working together to get a better outcome. This approach helps ensure that decisions are fair and stable, even when groups of people are trying to take advantage of the system.
+
+This paper matters because it provides a new tool for making better decisions in complex situations, such as business partnerships or international trade agreements. By minimizing the chance of groups exploiting the system, organizations can build trust and make more effective decisions that benefit everyone involved.
+
+[Read Full Paper](https://arxiv.org/abs/2604.28186v1)
+---
+
 ### ⚡ 2026-04-30: Turning the TIDE: Cross-Architecture Distillation for Diffusion Large Language Models
 > **Simple Summary:** Here's an explanation of the paper in 3 clear, engaging sentences:
 
