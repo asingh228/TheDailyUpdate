@@ -1,5 +1,15 @@
 
 
+### ⚡ 2026-05-05: SpecKV: Adaptive Speculative Decoding with Compression-Aware Gamma Selection
+> **Simple Summary:** Here's a summary of the research paper in 3 clear, engaging sentences:
+
+**What it does:** This AI research paper presents a new system called SpecKV that helps large language models process information more efficiently by adjusting how many potential answers they consider at a time. This is done by learning how to optimize the amount of information the model considers based on the type of task it's performing and the level of compression used to make the model run faster.
+
+**Why it matters:** By adjusting how many potential answers it considers, SpecKV can significantly improve the speed of large language models, making them more useful for applications like chatbots, virtual assistants, and language translation tools. The improvement is notable - the researchers found that SpecKV can make the model 56% faster without adding a noticeable delay.
+
+[Read Full Paper](https://arxiv.org/abs/2605.02888v1)
+---
+
 ### ⚡ 2026-05-01: Computing Equilibrium beyond Unilateral Deviation
 > **Simple Summary:** Imagine you're managing a team and making decisions together. You want to make sure everyone is happy with the outcome, but sometimes, a group of team members might try to sneak in a better deal for themselves. This paper is about finding a way to make decisions that minimize the chance of a group of team members exploiting the system.
 
