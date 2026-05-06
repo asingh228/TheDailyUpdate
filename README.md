@@ -1,5 +1,15 @@
 
 
+### ⚡ 2026-05-06: A Closed-Form Adaptive-Landmark Kernel for Certified Point-Cloud and Graph Classification
+> **Simple Summary:** **What it does:**
+This research paper introduces a new AI system called PALACE that helps computers classify complex data, like 3D objects or graphs, more accurately and efficiently. PALACE uses a combination of mathematical formulas and data analysis to find the best way to group similar objects together.
+
+**Why it matters:**
+PALACE has the potential to revolutionize how we use AI in various industries, such as medicine, chemistry, or urban planning, where complex data analysis is crucial. By providing accurate and efficient classification, PALACE can lead to better decision-making, improved products, and enhanced services, ultimately benefiting businesses and society as a whole.
+
+[Read Full Paper](https://arxiv.org/abs/2605.04046v1)
+---
+
 ### ⚡ 2026-05-05: SpecKV: Adaptive Speculative Decoding with Compression-Aware Gamma Selection
 > **Simple Summary:** Here's a summary of the research paper in 3 clear, engaging sentences:
 
