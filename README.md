@@ -1,5 +1,15 @@
 
 
+### ⚡ 2026-05-09: ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation
+> **Simple Summary:** Here's a simplified explanation of the AI research paper:
+
+**What it does:** ActCam is a computer program that can take a video of a person moving and a new setting, and use that information to create a new video of the same person moving in the new setting. It can also control the camera's movement and position to match the video's perspective.
+
+**Why it matters:** This technology has huge potential for film, animation, and video game production, as it allows creators to easily transfer characters and scenes between different settings without having to start from scratch. It also gives them more control over the camera's movement, which can make the final product look more polished and engaging.
+
+[Read Full Paper](https://arxiv.org/abs/2605.06667v1)
+---
+
 ### ⚡ 2026-05-06: A Closed-Form Adaptive-Landmark Kernel for Certified Point-Cloud and Graph Classification
 > **Simple Summary:** **What it does:**
 This research paper introduces a new AI system called PALACE that helps computers classify complex data, like 3D objects or graphs, more accurately and efficiently. PALACE uses a combination of mathematical formulas and data analysis to find the best way to group similar objects together.
