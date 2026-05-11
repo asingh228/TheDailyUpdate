@@ -1,5 +1,15 @@
 
 
+### ⚡ 2026-05-11: Normalizing Trajectory Models
+> **Simple Summary:** Here's a simplified explanation of the research paper:
+
+**What it does:** This AI system can generate images or scenes from a text description, and it does so in just a few steps, rather than many small steps. It achieves this by learning to accurately model the path it takes to create the image, rather than just trying to recreate it from scratch.
+
+**Why it matters:** This system is important because it allows for faster and more efficient image generation, which can be useful in applications such as creating art, generating product images for e-commerce, or even creating realistic special effects for movies and TV shows.
+
+[Read Full Paper](https://arxiv.org/abs/2605.08078v1)
+---
+
 ### ⚡ 2026-05-09: ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation
 > **Simple Summary:** Here's a simplified explanation of the AI research paper:
 
