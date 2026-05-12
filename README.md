@@ -1,5 +1,15 @@
 
 
+### ⚡ 2026-05-12: ELF: Embedded Language Flows
+> **Simple Summary:** Here's a simple explanation of the research paper:
+
+**What it does:** This AI research creates a new way to generate text using a continuous, flowing process, rather than the traditional method of using individual words or tokens. It achieves this by treating words as points on a mathematical map, which allows it to generate text more smoothly and efficiently.
+
+**Why it matters:** This breakthrough has the potential to revolutionize language processing by producing more coherent, natural-sounding text with fewer errors. It could also pave the way for AI to generate more compelling stories, conversations, and even creative writing, which could have significant impacts on various industries and aspects of our lives.
+
+[Read Full Paper](https://arxiv.org/abs/2605.10938v1)
+---
+
 ### ⚡ 2026-05-11: Normalizing Trajectory Models
 > **Simple Summary:** Here's a simplified explanation of the research paper:
 
