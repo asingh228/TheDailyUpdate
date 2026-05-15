@@ -1,5 +1,15 @@
 
 
+### ⚡ 2026-05-15: RefDecoder: Enhancing Visual Generation with Conditional Video Decoding
+> **Simple Summary:** Here's a simplified explanation of the research paper:
+
+**What it does:** This AI research paper introduces a new way to improve the quality of generated videos by using a reference image to help guide the creation process. The system, called RefDecoder, takes an input image and uses it to ensure that the generated video looks more consistent and detailed.
+
+**Why it matters:** By using a reference image, RefDecoder can produce videos that are more realistic and accurate, which is essential for applications like video editing, style transfer, and even generating realistic videos for entertainment. This improvement is significant because it can be easily integrated into existing video generation systems, making it a valuable tool for a wide range of industries and applications.
+
+[Read Full Paper](https://arxiv.org/abs/2605.15196v1)
+---
+
 ### ⚡ 2026-05-13: AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in UMMs via Decompositional Verifiable Reward
 > **Simple Summary:** Here's a simple explanation of the AI research paper:
 
