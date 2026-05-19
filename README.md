@@ -1,5 +1,15 @@
 
 
+### ⚡ 2026-05-19: DashAttention: Differentiable and Adaptive Sparse Hierarchical Attention
+> **Simple Summary:** Here's a breakdown of the AI research paper in simple terms:
+
+**What it does:** This paper introduces a new way for AI models, particularly those used in language understanding, to focus on the most relevant parts of a text while ignoring the rest. It allows the model to adaptively select which parts of the text are important to consider, making it more efficient and effective.
+
+**Why it matters:** This new approach has the potential to significantly improve AI language models' ability to understand and process long texts, which is crucial for many applications, such as customer service chatbots or language translation tools. By being more efficient, it can also make these models faster and more cost-effective to use, making them more practical for real-world use.
+
+[Read Full Paper](https://arxiv.org/abs/2605.18753v1)
+---
+
 ### ⚡ 2026-05-15: RefDecoder: Enhancing Visual Generation with Conditional Video Decoding
 > **Simple Summary:** Here's a simplified explanation of the research paper:
 
