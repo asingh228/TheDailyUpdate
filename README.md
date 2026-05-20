@@ -1,5 +1,15 @@
 
 
+### ⚡ 2026-05-20: Atoms of Thought: Universal EEG Representation Learning with Microstates
+> **Simple Summary:** Here's an explanation of the AI research paper in simple terms:
+
+**What it does:** This research paper uses brain activity data from electroencephalograms (EEG) to identify tiny building blocks of brain activity called "microstates." These microstates are then used to create a universal language that can be applied to various tasks, such as recognizing emotions, sleep stages, or even brain signals for controlling devices.
+
+**Why it matters:** By using microstates, this research offers a more efficient and interpretable way to understand brain activity, which can lead to breakthroughs in both medical research and the development of brain-computer interfaces. This could ultimately enable people to control devices with their thoughts, or help doctors better understand and diagnose brain-related conditions.
+
+[Read Full Paper](https://arxiv.org/abs/2605.20182v1)
+---
+
 ### ⚡ 2026-05-19: DashAttention: Differentiable and Adaptive Sparse Hierarchical Attention
 > **Simple Summary:** Here's a breakdown of the AI research paper in simple terms:
 
