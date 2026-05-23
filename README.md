@@ -1,5 +1,15 @@
 
 
+### ⚡ 2026-05-23: Tokenisation via Convex Relaxations
+> **Simple Summary:** Here's an explanation of the AI research paper in simple terms:
+
+**What it does:** This paper presents a new way to break down text into smaller units, called tokens, which is a crucial step in understanding and working with language. The new method, called ConvexTok, uses advanced math to make more informed decisions about how to divide text into tokens, leading to better results in various tasks.
+
+**Why it matters:** By doing a better job of breaking down text, ConvexTok can help language models understand language more accurately and efficiently, leading to improved performance in tasks like language translation, text summarization, and more. This is important because it can lead to better communication, decision-making, and productivity in fields like business, education, and healthcare.
+
+[Read Full Paper](https://arxiv.org/abs/2605.22821v1)
+---
+
 ### ⚡ 2026-05-21: Variance Reduction for Expectations with Diffusion Teachers
 > **Simple Summary:** Here's an explanation of the research paper in simple terms:
 
