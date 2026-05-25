@@ -1,5 +1,15 @@
 
 
+### ⚡ 2026-05-25: LLMs as Noisy Channels: A Shannon Perspective on Model Capacity and Scaling Laws
+> **Simple Summary:** Here's a simplified explanation of the paper:
+
+**What it does:** This research paper proposes a new way to understand how large language models improve or deteriorate with more training data and computational power. It does this by applying a mathematical concept called the Shannon-Hartley theorem, which is commonly used to study how signals are transmitted through noisy channels, like phone lines or radio waves.
+
+**Why it matters:** By using this theorem, the researchers have created a new "scaling law" that can accurately predict how well a language model will perform, even when it's subjected to "noise" or errors in the data. This is important because it can help developers build better language models that are less prone to overtraining and poor performance, which can be costly and time-consuming to fix.
+
+[Read Full Paper](https://arxiv.org/abs/2605.23901v1)
+---
+
 ### ⚡ 2026-05-23: Tokenisation via Convex Relaxations
 > **Simple Summary:** Here's an explanation of the AI research paper in simple terms:
 
